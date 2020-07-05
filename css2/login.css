@@ -1,0 +1,65 @@
+/*    Font Variable
+----------------------*/
+/*    Color Variable
+-----------------------*/
+/*    Solid Color
+------------------*/
+.sign-in {
+  margin-top: 85px;
+}
+.sign-in h3 {
+  border-bottom: 1px solid #dddddd;
+  padding-bottom: 20px;
+  margin-bottom: 30px;
+}
+.sign-in h4 {
+  margin-bottom: 40px;
+}
+.sign-in .checkbox {
+  display: inline-block;
+}
+.sign-in .btn-danger {
+  padding: 10px 40px;
+  background-color: #dc462b;
+  border-radius: 0px;
+  border: none;
+}
+.sign-in .social-log-in {
+  margin-top: 25px;
+  text-align: center;
+}
+.sign-in .social-log-in .btn-primary {
+  background-color: #3b5998;
+  padding-right: 60px;
+}
+.sign-in .social-log-in .btn-danger {
+  border-radius: 2px;
+  padding: 8px 42px 7px 25px;
+}
+.sign-in .social-log-in i {
+  padding: 9px 20px;
+}
+.sign-up {
+  margin-top: 85px;
+}
+.sign-up h3 {
+  border-bottom: 1px solid #dddddd;
+  padding-bottom: 20px;
+  margin-bottom: 30px;
+}
+.sign-up h4 {
+  margin-bottom: 40px;
+}
+.sign-up .radio label,
+.sign-up .radio input {
+  display: inline;
+}
+.sign-up .radio p {
+  display: inline-grid;
+  padding-left: 22px;
+}
+.sign-up .btn-default {
+  background-color: #000000;
+  color: #ffffff;
+  padding: 15px 30px;
+}

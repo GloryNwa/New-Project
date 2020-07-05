@@ -1,0 +1,33 @@
+/*    Font Variable
+----------------------*/
+/*    Color Variable
+-----------------------*/
+/*    Solid Color
+------------------*/
+.portfolio {
+  margin-bottom: 70px;
+  margin-top: 100px;
+}
+.portfolio ul {
+  margin-bottom: 50px;
+  border: none;
+}
+.portfolio ul li a {
+  color: #aaaaaa;
+}
+.portfolio .nav-tabs > li.active > a,
+.portfolio .nav-tabs > li.active > a:focus,
+.portfolio .nav-tabs > li.active > a:hover {
+  -moz-border-bottom-colors: none;
+  color: #dc462b;
+  cursor: default;
+  border-bottom: 1px solid #dc462b;
+}
+.portfolio-nav-tab li {
+  text-align: center;
+  float: none;
+  display: inline-block;
+}
+.portfolio-tab-img-content img {
+  margin-bottom: 30px;
+}

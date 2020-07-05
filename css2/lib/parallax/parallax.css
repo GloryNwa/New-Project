@@ -1,0 +1,97 @@
+/*    Font Variable
+----------------------*/
+/*    Color Variable
+-----------------------*/
+/*    Solid Color
+------------------*/
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Open Sans', sans-serif;
+}
+a,
+button {
+  outline: none!important;
+  text-decoration: none!important;
+  transition: all 0.2s ease 0s;
+}
+a:hover,
+button:hover,
+a:focus,
+button:focus,
+a.active,
+button.active {
+  outline: none!important;
+  text-decoration: none!important;
+}
+ul {
+  padding: 0px;
+  margin: 0px;
+}
+li {
+  list-style: none;
+}
+.color-orange {
+  color: #dc462b;
+}
+.bg-white {
+  background: #ffffff;
+}
+.bdr-red {
+  border: 1px solid #db3a1c;
+}
+.bg-gray {
+  background: #e8e8e8;
+}
+.overflow {
+  background: rgba(219, 58, 28, 0.9) none repeat scroll 0 0;
+  color: #fff;
+  display: table;
+  height: 100%;
+  overflow: hidden;
+  text-align: center;
+  width: 100%;
+}
+.pr {
+  position: relative;
+}
+.section-padding {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.section-heading h2 {
+  display: inline-block;
+  font-size: 30px;
+  margin: 0;
+  color: #111111;
+  font-weight: 700;
+}
+.custom-carousel .owl-controls {
+  margin-top: 0px;
+}
+/*
+===================================
+    Parallax
+===================================*/
+.parallax-text p {
+  font-size: 30px;
+  font-weight: 400;
+  color: #ffffff;
+}
+.parallax-text h2 {
+  font-weight: 700;
+  margin-bottom: 22px;
+  margin-top: 0;
+}
+.parallax-text a {
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: 600;
+}
